@@ -16,7 +16,7 @@
 
 
 #     [0,3]
-#     (0,3]
+#     (0,3] #我是冲突
 
 # d = {'a' : 1, 'b' : 2, 'c' : 3}
 # for key in d:
@@ -44,7 +44,7 @@
 #                 minL = i
 #         return(maxL, minL)
 
-# print(find_min_max([0,4,6,3,2,8]))
+# print(find_min_max([0,4,6,3,2,8])) #我是冲突
 
 
 
